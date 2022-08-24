@@ -3,7 +3,7 @@
     flex-direction: column;
 }
 
-.header {
+.header, .top-of-page {
     display: flex;
     background-color: #1F3937;
 }
