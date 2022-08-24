@@ -1,9 +1,10 @@
-body {
+.content {
     display: flex;
     flex: auto;
 }
 
-header {
+.header {
     display: flex;
     flex: auto;
+    background-color: blue;
 }
