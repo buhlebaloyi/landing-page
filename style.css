@@ -56,3 +56,8 @@ footer {
 .links {
     color: #E5E7EB;
 }
+
+.quoted-person {
+    font-style: normal;
+    font-weight: 900;
+}
