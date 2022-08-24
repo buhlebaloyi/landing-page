@@ -2,3 +2,9 @@ body {
     display: flex;
     flex: auto;
 }
+
+header {
+    display: flex;
+    flex: auto;
+    flex-direction: row;
+}
