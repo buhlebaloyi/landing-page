@@ -1,10 +1,8 @@
 .content {
     display: flex;
-    flex: auto;
 }
 
 .header {
     display: flex;
-    flex: auto;
     background-color: blue;
 }
