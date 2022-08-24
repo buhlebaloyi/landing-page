@@ -5,11 +5,11 @@
 
 .header, .top-of-page {
     display: flex;
-    background-color: #1F3937;
+    background-color: #1F2937;
 }
 
 .bold-heading {
-    font-size: 42px;
+    font-size: 48px;
     font-weight: 900;
     color: #F9FAF8;
 }
@@ -22,4 +22,8 @@
 .small-heading {
     font-size: 18px;
     color: #E5E7EB;
+}
+
+button {
+    color: #3882F6;
 }
