@@ -7,3 +7,8 @@
     display: flex;
     background-color: #1F3937;
 }
+
+.bold-heading {
+    font-size: 42px;
+    font-weight: 900;
+}
