@@ -51,6 +51,11 @@ button {
     height: 24px;
 }
 
+.content-head{
+    display: flex;
+    justify-content: center;
+}
+
 .content-head {
     font-size: 36px;
     font-weight: 900;
