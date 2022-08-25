@@ -93,12 +93,18 @@ button {
 }
 
 .bottom-of-page {
+    display: flex;
+    justify-content: space-between;
     background-color: #3882F6;
     color: white;
     margin-top: 64px;
     margin-bottom: 64px;
     margin-left: 100px;
     margin-right: 100px;
+    padding-top: 64px;
+    padding-bottom: 64px;
+    padding-right: 100px;
+    padding-left: 100px;
 }
 
 footer {
