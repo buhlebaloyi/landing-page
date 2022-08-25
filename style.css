@@ -79,6 +79,11 @@ button {
     /* figure out where the light in the font picture comes from*/
 }
 
+.quoted-person {
+    display: flex;
+    justify-content: right;
+}
+
 .bottom-of-page {
     background-color: #3882F6;
     color: white;
