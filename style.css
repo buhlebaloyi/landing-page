@@ -76,7 +76,9 @@ footer {
 }
 
 .links {
+    display: flex;
     color: #E5E7EB;
+    gap: 16px;
 }
 
 .quoted-person {
