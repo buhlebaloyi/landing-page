@@ -69,6 +69,7 @@ button {
 
 .content-images {
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
     margin: 24px;
     margin-bottom: 76px;
