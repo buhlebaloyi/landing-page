@@ -16,6 +16,11 @@
     padding-bottom: 70px;
 }
 
+.top-left {
+    display: flex;
+    flex-direction: column;
+}
+
 .top-image {
     width: 300px;
     height: 150px;
@@ -41,6 +46,8 @@
 button {
     background-color: #3882F6;
     color: white;
+    width: 86px;
+    height: 24px;
 }
 
 .content-head {
