@@ -15,6 +15,12 @@
     padding-bottom: 70px;
 }
 
+.top-image {
+    width: 300px;
+    height: 150px;
+    background-color: #E5E7EB;
+}
+
 .bold-heading {
     font-size: 48px;
     font-weight: 900;
