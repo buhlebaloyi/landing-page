@@ -6,7 +6,12 @@
 
 .header, .top-of-page {
     display: flex;
+    flex: auto;
     background-color: #1F2937;
+}
+
+.header {
+    justify-content: space-around;
 }
 
 .bold-heading {
