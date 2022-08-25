@@ -95,6 +95,7 @@ button {
 .bottom-of-page {
     display: flex;
     justify-content: space-between;
+    align-items: center;
     background-color: #3882F6;
     color: white;
     margin-top: 64px;
@@ -113,8 +114,12 @@ button {
 }
 
 footer {
+    display: flex;
+    justify-content: center;
     background-color: #1F2937;
     color: #F9FAF8;
+    padding-top: 16px;
+    padding-bottom: 16px;
 }
 
 .links {
