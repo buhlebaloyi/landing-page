@@ -8,10 +8,9 @@
     display: flex;
     flex: auto;
     background-color: #1F2937;
-}
-
-.header {
-    justify-content: space-around;
+    justify-content: space-between;
+    padding-left: 80px;
+    padding-right: 80px;
 }
 
 .bold-heading {
