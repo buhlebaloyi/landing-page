@@ -95,6 +95,10 @@ button {
 .bottom-of-page {
     background-color: #3882F6;
     color: white;
+    margin-top: 64px;
+    margin-bottom: 64px;
+    margin-left: 100px;
+    margin-right: 100px;
 }
 
 footer {
