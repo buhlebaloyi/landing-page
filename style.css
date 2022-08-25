@@ -68,6 +68,10 @@ button {
 }
 
 .quote {
+    display: flex;
+    flex-direction: column;
+    padding-left: 200px;
+    padding-right: 200px;
     font-size: 36px;
     font-style: italic;
     color: #1F2937;
