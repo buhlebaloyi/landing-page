@@ -55,6 +55,7 @@ button {
     color: white;
     width: 86px;
     height: 24px;
+    border-radius: 5px;
 }
 
 .content-head {
@@ -71,6 +72,10 @@ button {
     margin: 24px;
     margin-bottom: 76px;
     gap: 16px;
+}
+
+.image {
+    border-radius: 5px;
 }
 
 .quote {
@@ -106,6 +111,7 @@ button {
     padding-bottom: 56px;
     padding-right: 100px;
     padding-left: 100px;
+    border-radius: 5px;
 }
 
 #call-to-action {
