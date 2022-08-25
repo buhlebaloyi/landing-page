@@ -76,6 +76,10 @@ button {
 
 .image {
     border-radius: 5px;
+    border-color:#3882F6;
+    border: 5px;
+    height: 100px;
+    width: 100px;
 }
 
 .quote {
