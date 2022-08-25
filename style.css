@@ -63,6 +63,7 @@ button {
     display: flex;
     justify-content: center;
     margin: 24px;
+    margin-bottom: 76px;
     gap: 16px;
 }
 
