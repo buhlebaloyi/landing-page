@@ -19,6 +19,7 @@
 .top-left {
     display: flex;
     flex-direction: column;
+    justify-content: space-evenly;
 }
 
 .top-image {
